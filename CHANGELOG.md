@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 1.0.0 - 2020-01-16
 
-###Added
-*Initial setup was done and a release for V1.0.01 was created. 
+### Added
+* Initial setups, a release for V1.0.0 was created. 
 
+### Changed
+* release changed from V1.0.0 to V1.0.1
